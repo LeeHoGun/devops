@@ -15,3 +15,4 @@
 - [10주차 - 쿠버네티스 배포와 서비스](week10/README.md)
 - [11주차 - 쿠버네티스 설정과 상태 점검](week11/README.md)
 - [12주차 - 깃허브 액션으로 CI 구축](week12/README.md)
+- [13주차 - 깃옵스(Argo CD)로 CD 구축](week13/README.md)
